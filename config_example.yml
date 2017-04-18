@@ -1,0 +1,8 @@
+ports:
+  udp4: 8053
+  tcp4: 10053
+
+records:
+  "example.com":
+    - A: "8.8.8.8"
+    - A: "8.8.4.4"
