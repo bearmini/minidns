@@ -13,7 +13,7 @@ go get github.com/bearmini/minidns
 ## how to run
 
 ```
-minidns --config config_example.com
+minidns --config config_example.yml
 ```
 
 in another terminal:
