@@ -6,7 +6,7 @@ A tiny DNS server with very limited features and the simplest configuration.
 ## how to install
 
 ```
-go get bearmini/minidns
+go get github.com/bearmini/minidns
 ```
 
 
